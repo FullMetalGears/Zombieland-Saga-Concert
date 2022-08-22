@@ -12,7 +12,7 @@ Walk in and see the change for yourself!
 
 -----
 
-This mod features Zombieland Saga Revenge introthat plays during the heist! 
+This mod features Zombieland Saga Revenge introthat plays during the heist! Also plays the OP for season 1 and 2 during the pyro part of the heist.
 There is also the songs available in their own heist tracks as well! 
 There are two main zip files to download. One is the retextures plus heist rename, second is the music replacer.
 
