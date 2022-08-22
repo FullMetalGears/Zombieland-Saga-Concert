@@ -12,11 +12,9 @@ Walk in and see the change for yourself!
 
 -----
 
-This mod features Zombieland Saga Revenge that plays during the heist! 
+This mod features Zombieland Saga Revenge introthat plays during the heist! 
 There is also the songs available in their own heist tracks as well! 
-There are two other zips to download. One is just the heist retexture + alesso heist rename, the second is the heist music. 
-
-
+There are two main zip files to download. One is the retextures plus heist rename, second is the music replacer.
 
 -----
 
